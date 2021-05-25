@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Yerlan Turatbek 201013</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hello, my name is Yerlan.
+\n\nI am from Kazakhstan.
+\n\nI am studying at AstanIT University.
+\nI graduated NIS.
+\n\nI like playing football, listening some music, and reading the books.
+\nMy favourite football club is Arsenal from London.\n\n</string>
+</resources>
